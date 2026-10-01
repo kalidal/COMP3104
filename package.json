@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/kalidal/COMP3104/issues"
   },
-  "homepage": "https://github.com/kalidal/COMP3104#readme",
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "homepage": "https://github.com/kalidal/COMP3104#readme"
 }
